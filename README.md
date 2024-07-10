@@ -1,5 +1,5 @@
 # CV-Attitude-Determination
-A CV Script used to determine the attitude of an object through the use of ArUco markers. Takes a quaternion and converts into an Euler angle sequence, displaying orientation in terms of yaw, pitch and roll. 
+A Python CV Script used to determine the attitude of an object through the use of ArUco markers. Takes a quaternion and converts into an Euler angle sequence, displaying orientation in terms of yaw, pitch and roll. 
 
 The following versions is what I used when creating this script:
 
