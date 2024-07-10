@@ -4,9 +4,13 @@ A CV Script used to determine the attitude of an object through the use of ArUco
 The following versions is what I used when creating this script:
 
 Python 3.11
+
 numpy 1.26.6
+
 opencv-contrib-python 4.9.0.80
+
 opencv-python 4.9.0.80
+
 PyYAML 6.0.1
 
 
